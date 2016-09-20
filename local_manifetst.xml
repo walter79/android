@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="danile71/android_device_samsung" path="device/samsung" remote="github" revision="cm-13.0" />
-<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
-<project name="danile71/android_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
-<project name="danile71/android_kernel_samsung_serranovexx" path="kernel/samsung/serranovexx" remote="github" revision="cm-13.0" />
-<project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
+<project name="danile71/android_device_samsung" path="device/samsung" remote="github" revision="cm-14.0" />
+<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.0" />
+<project name="danile71/android_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.0" />
+<project name="danile71/android_kernel_samsung_serranovexx" path="kernel/samsung/serranovexx" remote="github" revision="cm-14.0" />
+<project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.0" />
 <project name="CyanogenMod/android_
-external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
-<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" />
+external_stlport" path="external/stlport" remote="github" revision="cm-14.0" />
+<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.0" />
 </manifest>
