@@ -1,15 +1,15 @@
-CyanogenMod
+LineageOS
 ===========
 
 Getting Started
 ---------------
 
-To get started with Android/CyanogenMod, you'll need to get
+To get started with Android/LineageOS, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the CyanogenMod trees, use a command like this:
+To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-14.0
+    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
 
 Then place local_manifest.xml to .repo/local_manifet/
 
@@ -17,15 +17,15 @@ Then to sync up:
 
     repo sync
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
+Please see the [LineageOS Wiki](http://wiki.LineageOS.org/) for building instructions.
 
 For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
+please [read the wiki article](http://wiki.LineageOS.org/w/Github_Organization)
 
 Buildbot
 --------
 
 All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
-You can view the current build statuses at [CyanogenMod Jenkins](http://jenkins.cyanogenmod.org/)
+You can view the current build statuses at [LineageOS Jenkins](http://jenkins.LineageOS.org/)
 
