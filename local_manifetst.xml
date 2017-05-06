@@ -8,4 +8,6 @@
 <project name="LineageOS/android_
 external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
+<project path="external/busybox" name="LineageOS/android_external_busybox" groups="pdk" />
+ <project path="bootable/recovery" name="omnirom/android_bootable_recovery" remote="github" revision="android-7.1" groups="pdk-cw-fs"/>
 </manifest>
