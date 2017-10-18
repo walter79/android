@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="danile71/android_device_samsung" path="device/samsung" remote="github" revision="la-14.1" />
-<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+<project name="Danile71/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-15.0" />
+<project name="Danile71/android_device_samsung_serranovelte" path="device/samsung/serranovelte" remote="github" revision="lineage-15.0" />
+<project name="Danile71/android_device_samsung_serranovexx-common" path="device/samsung/serranovexx-common" remote="github" revision="lineage-15.0" />
+<project name="danile71/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-15.0" />
+
+
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
+
 <project name="danile71/android_vendor_samsung" path="vendor/samsung" remote="github" revision="la-14.1" />
-<project name="danile71/android_kernel_samsung_serranovexx" path="kernel/samsung/serranovexx" remote="github" revision="la-14.1" />
-<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
-<project name="LineageOS/android_
-external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+
+<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.0" />
+<project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.0" />
 <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
-<project path="external/busybox" name="LineageOS/android_external_busybox" groups="pdk" />
- <project path="bootable/recovery" name="omnirom/android_bootable_recovery" remote="github" revision="android-7.1" groups="pdk-cw-fs"/>
+<project path="external/busybox" name="LineageOS/android_external_busybox" groups="pdk" remote="github" revision="cm-14.1" />
+<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-7.1" groups="pdk-cw-fs"/>
 </manifest>
